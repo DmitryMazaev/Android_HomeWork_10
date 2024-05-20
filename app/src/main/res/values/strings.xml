@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android_HomeWork_10</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="app_label">Timer</string>
+    <string name="previous">Previous</string>
+    <string name="countdown_timer_text">Countdown Timer</string>
+    <string name="button_text">START</string>
+    <integer name="seek_bar_max">20</integer>
+    <integer name="seek_bar_min">0</integer>
+
+</resources>
